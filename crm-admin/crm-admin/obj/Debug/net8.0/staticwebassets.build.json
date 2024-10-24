@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LXMJfjmCrbSy0LudUpUPH6v0ly2yzQ77Euc3PGZMaI8=",
+  "Source": "crm-admin",
+  "BasePath": "_content/crm-admin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

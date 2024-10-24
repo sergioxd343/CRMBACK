@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\crm-admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\interaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\interaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\adminsoftlicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\adminsoftlicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\clientesactividadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\clientesactividadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\clientesactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\clientesactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\aceptacionescotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\aceptacionescotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\aceptacionescotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\aceptacionescotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\interaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\interaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\migrations\\20241021034313_actualizacionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\migrations\\20241021034313_actualizacionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\controllers\\ordenescompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\controllers\\ordenescompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\ordenescompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\ordenescompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|c:\\users\\sergi\\source\\repos\\crm-admin\\crm-admin\\models\\preciosserviciospreestablecido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A04EF98-1F8A-4B36-AC29-97550CA4D1AD}|crm-admin\\crm-admin.csproj|solutionrelative:crm-admin\\models\\preciosserviciospreestablecido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:01:30.531Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\appsettings.json",
+              "RelativeDocumentMoniker": "crm-admin\\appsettings.json",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\appsettings.json",
+              "RelativeToolTip": "crm-admin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T05:28:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesActividad.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\ClientesActividad.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\ClientesActividad.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\ClientesActividad.cs",
+              "RelativeToolTip": "crm-admin\\Models\\ClientesActividad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:59:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:59:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArchivoController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ArchivoController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\ArchivoController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ArchivoController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\ArchivoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:57:16.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AceptacionesCotizacionController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\AceptacionesCotizacionController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\AceptacionesCotizacionController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\AceptacionesCotizacionController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\AceptacionesCotizacionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:52:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AceptacionesCotizacion.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\AceptacionesCotizacion.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\AceptacionesCotizacion.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\AceptacionesCotizacion.cs",
+              "RelativeToolTip": "crm-admin\\Models\\AceptacionesCotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:51:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:50:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Empresa.cs",
+              "RelativeToolTip": "crm-admin\\Models\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:48:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241021034313_ActualizacionEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Migrations\\20241021034313_ActualizacionEmpresa.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Migrations\\20241021034313_ActualizacionEmpresa.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Migrations\\20241021034313_ActualizacionEmpresa.cs",
+              "RelativeToolTip": "crm-admin\\Migrations\\20241021034313_ActualizacionEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:43:13.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesActividadController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ClientesActividadController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\ClientesActividadController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\ClientesActividadController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\ClientesActividadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:49:00.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interaccione.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Interaccione.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\Interaccione.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Interaccione.cs",
+              "RelativeToolTip": "crm-admin\\Models\\Interaccione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:44:30.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InteraccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\InteraccionesController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\InteraccionesController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\InteraccionesController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\InteraccionesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:45:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdenesCompraController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\OrdenesCompraController.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Controllers\\OrdenesCompraController.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Controllers\\OrdenesCompraController.cs",
+              "RelativeToolTip": "crm-admin\\Controllers\\OrdenesCompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:43:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminSoftliContext.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\AdminSoftliContext.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\AdminSoftliContext.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\AdminSoftliContext.cs",
+              "RelativeToolTip": "crm-admin\\Models\\AdminSoftliContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDEAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:42:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdenesCompra.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\OrdenesCompra.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\OrdenesCompra.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\OrdenesCompra.cs",
+              "RelativeToolTip": "crm-admin\\Models\\OrdenesCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:40:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\Empleado.cs",
+              "RelativeToolTip": "crm-admin\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:39:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PreciosServiciosPreestablecido.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\PreciosServiciosPreestablecido.cs",
+              "RelativeDocumentMoniker": "crm-admin\\Models\\PreciosServiciosPreestablecido.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\crm-admin\\crm-admin\\Models\\PreciosServiciosPreestablecido.cs",
+              "RelativeToolTip": "crm-admin\\Models\\PreciosServiciosPreestablecido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:35:48.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
